@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Her Shadow in the Rearview
+
+This log tracks the cryptographic history and versioning for the song **Her Shadow in the Rearview** (her-shadow-in-the-rearview).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T02:12:30.399726 | `v1` | `172695bb46f18f2468d6d37cd71758148056a86f9a5b03582745d1ca4bdf2b94` | `f8d7ad2329f98e073d6f14ae13bde9a35813e9b26d7a08ddde9f193d1a2a6341` | `2026-05-25_her-shadow-in-the-rearview-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

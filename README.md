@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/her-shadow-in-the-rearview/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Her Shadow in the Rearview](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/her-shadow-in-the-rearview/) |
+| **Get License** | [Music Rights & Licensing for Her Shadow in the Rearview](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/her-shadow-in-the-rearview/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `172695bb46f18f2468d6d37cd71758148056a86f9a5b03582745d1ca4bdf2b94` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
