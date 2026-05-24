@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/her-shadow-in-the-rearview/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Her Shadow in the Rearview](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/her-shadow-in-the-rearview/) |
+| **Get License** | [Get License For Her Shadow in the Rearview](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/her-shadow-in-the-rearview/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your hand on my knee, we're wild and free
+> This passenger seat is where you should be
+> Leaving her shadow in the rearview tonight
+> Just you and me, bathed in the dashboard light
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
